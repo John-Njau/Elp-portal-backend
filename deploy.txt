@@ -1,0 +1,2 @@
+railway login --> login from your machine to railway using the Command Line interface
+railway up
